@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.290197ff.css",
+    "main.js": "/static/js/main.d5cb05ca.js",
+    "static/js/483.bbadcdc7.chunk.js": "/static/js/483.bbadcdc7.chunk.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/fondo.png": "/static/media/fondo.c23fc3f3dd2dcb96fe88.png",
+    "static/media/museos2.jpg": "/static/media/museos2.d74876d8ff9dce60fa8f.jpg",
+    "static/media/logo2.png": "/static/media/logo2.42ea3d306e235c559e27.png",
+    "static/media/logo.png": "/static/media/logo.695719a51aefdfb6d4d7.png",
+    "static/media/chat-bubble.png": "/static/media/chat-bubble.d131f3637d62762e763f.png",
+    "static/media/check.png": "/static/media/check.0ad340259a8c140a65cd.png",
+    "static/media/delete-button.png": "/static/media/delete-button.6113071412906ba1bb21.png",
+    "static/media/no.png": "/static/media/no.6113071412906ba1bb21.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.290197ff.css.map": "/static/css/main.290197ff.css.map",
+    "main.d5cb05ca.js.map": "/static/js/main.d5cb05ca.js.map",
+    "483.bbadcdc7.chunk.js.map": "/static/js/483.bbadcdc7.chunk.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290197ff.css",
+    "static/js/main.d5cb05ca.js"
+  ]
+}
